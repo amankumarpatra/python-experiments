@@ -35,7 +35,11 @@ to dynamically create and modify dictionaries.
 - dict()
 - Error handling
 - Clean code structure
-
+- Function definition and return values
+- **kwargs for flexible function parameters
+- Dynamic dictionary construction
+- function manipulation in Python
+- Code modularity and structure
 ---
 
 ## 👨‍💻 Author
