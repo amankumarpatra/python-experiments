@@ -41,7 +41,34 @@ to dynamically create and modify dictionaries.
 - function manipulation in Python
 - Code modularity and structure
 ---
+🔗 [Go to Experiment 3](./experiment-03-route-info/route_info.py)
 
+---
+
+## 🚀 Purpose
+
+- Practice conditional logic in Python
+- Work with dictionary-based data input
+- Improve problem-solving skills
+- Strengthen validation and data checking concepts
+- Build structured programming mindset
+
+---
+
+## 🧠 Concepts Covered
+
+- Functions
+- Conditional statements (if-elif-else)
+- Dictionary key existence checking
+- isinstance() for type validation
+- Arithmetic operations
+- Logical operators (and)
+- Defensive programming
+- Clean code structure
+- Function definition and return values
+- Data validation techniques
+
+  
 ## 👨‍💻 Author
 
 Aman Kumar Patra
